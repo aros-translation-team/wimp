@@ -1,0 +1,348 @@
+## version $VER: wimp.catalog 1.0 (06.08.2026)
+## language svenska
+## codeset 0
+;
+MSG_APP_NAME
+WiMP
+; WiMP
+;
+MSG_APP_TITLE
+Fönsterhanterare
+; Window Manipulator
+;
+MSG_APP_ABOUT
+WiMP - Fönstermanipuleringsprogrammet\n\nCopyright \xa9 2000-2019 by The AROS Development Team
+; WiMP - The Window Manipulation Program\n\nCopyright \xa9 2000-2019 by The AROS Development Team
+;
+MSG_APP_COPYRIGHT
+Copyright \xa9 1995-2019, The AROS Development Team
+; Copyright \xa9 1995-2019, The AROS Development Team
+;
+MSG_APP_AUTOR
+The AROS Development Team
+; The AROS Development Team
+;
+MSG_APP_BASE
+WIMP
+; WIMP
+;
+MSG_WINDOW_TITLE
+WiMP - Fönstermanipuleringsprogrammet
+; WiMP - The Window Manipulation Program
+;
+MSG_INFO_TITLE
+WiMP - Infofönster
+; WiMP - InfoWindow
+;
+MSG_CLOSE_SCREEN
+Vill du verkligen stänga den valda skärmen?
+; Do you really want to Close the selected Screen?
+;
+MSG_CLOSE_WINDOW
+Vill du verkligen stänga det valda fönstret?
+; Do you really want to Close the selected Window?
+;
+MSG_YES_NO
+Ja.|Nej!
+; Yes.|No!
+;
+MSG_CONTINUE
+Fortsätt
+; Continue
+;
+MSG_BTN_KILL
+\033iDöda
+; \033iKill
+;
+MSG_BTN_FRONT
+Till _förgrunden
+; To _Front
+;
+MSG_BTN_BACK
+Till _bakgrunden
+; To _Back
+;
+MSG_BTN_MOVE
+Flytta till _origo
+; Move to _Origin
+;
+MSG_BTN_ACTIVATE
+_Aktivera
+; _Activate
+;
+MSG_BTN_ZIP
+_Zip
+; _Zip
+;
+MSG_BTN_HIDE
+_Göm
+; _Hide
+;
+MSG_BTN_SHOW
+_Visa
+; _Show
+;
+MSG_BTN_UPDATE_LIST
+_Uppdatera lista
+; _Update List
+;
+MSG_BTN_RESCUE_ALL
+_Rädda alla fönster
+; _Rescue all Windows
+;
+MSG_BTN_SHOW_ALL
+Visa alla fönster
+; Show all Windows
+;
+MSG_BTN_RETHING
+Rita om skärmen
+; Rethink Display
+;
+MSG_BTN_ABOUT
+Om
+; About
+;
+MSG_SCREEN_WINDOW_LIST
+Skärm-/fönsterlista
+; Screen/Window List
+;
+MSG_MENU_PROJECT
+Projekt
+; Project
+;
+MSG_MENU_ABOUT
+Om...
+; About...
+;
+MSG_MENU_QUIT
+Avsluta
+; Quit
+;
+MSG_MENU_WIN_LIST
+Fönsterlista
+; Window List
+;
+MSG_MENU_UPDATE_LIST
+Uppdatera lista
+; Update List
+;
+MSG_MENU_KILL
+Ta bort
+; Kill
+;
+MSG_MENU_TO_FRONT
+Till förgrunden
+; To Front
+;
+MSG_MENU_TO_BACK
+Till bakgrunden
+; To Back
+;
+MSG_MENU_TO_ORIGIN
+Till origo
+; To Origin
+;
+MSG_MENU_ACTIVATE
+Aktivera
+; Activate
+;
+MSG_MENU_ZIP
+Zip
+; Zip
+;
+MSG_MENU_HIDE
+Göm
+; Hide
+;
+MSG_MENU_SHOW
+Visa
+; Show
+;
+MSG_MENU_INFO
+Info
+; Info
+;
+MSG_MENU_GENERIC
+Allmänt
+; Generic
+;
+MSG_MENU_RESCUE_ALL
+Rädda alla
+; Rescue All
+;
+MSG_MENU_SHOW_ALL
+Visa alla
+; Show All
+;
+MSG_MENU_RETHINGDISPLAY
+RethinkDisplay
+; RethinkDisplay
+;
+MSG_ARRAY_WINDOW
+  \033bFönster
+;   \033bWindow
+;
+MSG_ARRAY_SCREEN
+\033b\033uSkärm
+; \033b\033uScreen
+;
+MSG_ARRAY_0_TYPE
+Typ
+; Type
+;
+MSG_ARRAY_1_ADDRESS
+Adress
+; Address
+;
+MSG_ARRAY_2_SIZE
+Storlek
+; Size
+;
+MSG_ARRAY_3_POSITION
+Position
+; Position
+;
+MSG_ARRAY_4_STATUS
+Status
+; Status
+;
+MSG_ARRAY_5_TITLE
+Titel
+; Title
+;
+MSG_COL_SCREEN
+Skärm
+; Screen
+;
+MSG_COL_SCR_ADDRESS
+Adress
+; Address
+;
+MSG_COL_SCR_LEFTEDGE
+LeftEdge
+; LeftEdge
+;
+MSG_COL_SCR_TOPEDGE
+TopEdge
+; TopEdge
+;
+MSG_COL_SCR_WIDTH
+Bredd
+; Width
+;
+MSG_COL_SCR_HEIGHT
+Höjd
+; Height
+;
+MSG_COL_SCR_FLAGS
+Flaggor
+; Flags
+;
+MSG_COL_SCR_TITLE
+Titel
+; Title
+;
+MSG_COL_SCR_DEFAULTIT
+DefaultTitle
+; DefaultTitle
+;
+MSG_COL_SCR_FRSTWIN
+FirstWindow
+; FirstWindow
+;
+MSG_COL_WIDOW
+Fönster
+; Window
+;
+MSG_COL_WIN_ADDRESS
+Adress
+; Address
+;
+MSG_COL_WIN_NEXTWIN
+NextWindow
+; NextWindow
+;
+MSG_COL_WIN_LEFTEDGE
+LeftEdge
+; LeftEdge
+;
+MSG_COL_WIN_TOPEDGE
+TopEdge
+; TopEdge
+;
+MSG_COL_WIN_WIDTH
+Bredd
+; Width
+;
+MSG_COL_WIN_HEIGHT
+Höjd
+; Height
+;
+MSG_COL_WIN_MINWIDTH
+MinWidth
+; MinWidth
+;
+MSG_COL_WIN_MINHEIGHT
+MinHeight
+; MinHeight
+;
+MSG_COL_WIN_MAXWIDTH
+MaxWidth
+; MaxWidth
+;
+MSG_COL_WIN_MAXHEIGHT
+MaxHeight
+; MaxHeight
+;
+MSG_COL_WIN_FLAGS
+Flaggor
+; Flags
+;
+MSG_COL_WIN_IDCMPFLAGS
+IDCMPFlags
+; IDCMPFlags
+;
+MSG_COL_WIN_TITLE
+Titel
+; Title
+;
+MSG_COL_WIN_REQCOUNT
+ReqCount
+; ReqCount
+;
+MSG_COL_WIN_WSCREEN
+WScreen
+; WScreen
+;
+MSG_COL_WIN_BORDERLEFT
+BorderLeft
+; BorderLeft
+;
+MSG_COL_WIN_BORDERTOP
+BorderTop
+; BorderTop
+;
+MSG_COL_WIN_BORDERRIGHT
+BorderRight
+; BorderRight
+;
+MSG_COL_WIN_BORDERBOTTOM
+BoderBottom
+; BoderBottom
+;
+MSG_COL_WIN_PARENTWIN
+Föräldrafönster
+; Parent Window
+;
+MSG_COL_WIN_FIRSTCHILD
+Första barn
+; First Child
+;
+MSG_COL_WIN_PARENT
+Moder
+; Parent
+;
+MSG_COL_WIN_DESCENDANT
+Descendant
+; Descendant
+;
